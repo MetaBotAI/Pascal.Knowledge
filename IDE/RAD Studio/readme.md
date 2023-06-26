@@ -1,5 +1,6 @@
-# Embaraco RAD Studio
+# Embarcadero RAD Studio
 This is a JetBrains based IDE for Delphi!
+
 Home: https://www.embarcadero.com/products/rad-studio
 - community edition: https://www.embarcadero.com/products/delphi/starter
 
